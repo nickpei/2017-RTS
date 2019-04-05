@@ -1,1 +1,1 @@
-# 2017-RTS
+# 2017-RTS (Real-time Summarization)
